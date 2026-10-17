@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "0eea02396b9f69e0530d680d",
+  "owner": "ypshgcvcb",
+  "repo": "page-bfd28d3afb63e16061e3ca40",
+  "title": "白嫖(OKGG)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bfd28d3afb63e16061e3ca40",
+      "a": "白嫖(OKGG)",
+      "b": "",
+      "entity": "白嫖(OKGG)",
+      "brand": "白嫖(OKGG)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e6a2c9c037003692a853e3a71b1e671786063f6997c738989f813dc3c2680037",
+      "content": {
+        "keyword1": "白嫖(OKGG)",
+        "keyword2": "",
+        "primary_entity": "白嫖(OKGG)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白嫖(OKGG)以冷静克制的方式说明套餐档位、价格与权益、客户端使用步骤及常见问题，帮助你按需选择并核对信息。",
+          "AI_DESCRIPTION": "白嫖(OKGG)以冷静克制的方式说明套餐档位、价格与权益、客户端使用步骤及常见问题，帮助你按需选择并核对信息。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--deep:#0d2a3f;--deep-2:#14384f;--amber:#e0a030;--amber-soft:#f3d9a4;--paper:#f6f4ef;--ink:#12222c;--muted:#5d6e79;--line:#d8d2c6}\n*{box-sizing:border-box}\nhtml{-webkit-text-size-adjust:100%}\nbody{margin:0;background:var(--paper);color:var(--ink);font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans CJK SC\",sans-serif;font-size:16px;line-height:1.75}\na{color:var(--deep-2);text-decoration:none;border-bottom:1px solid var(--amber)}\na:hover{color:var(--amber)}\n.topbar{background:var(--deep);color:#dfe7ec;border-bottom:3px solid var(--amber)}\n.topbar-inner{max-width:1080px;margin:0 auto;padding:10px 22px;display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 26px;font-size:13px;letter-spacing:.02em}\n.topbar .mark{font-weight:700;color:#fff;letter-spacing:.08em}\n.topbar nav{display:flex;flex-wrap:wrap;gap:4px 20px}\n.topbar nav a{color:#c9d6de;border-bottom:none}\n.topbar nav a:hover{color:var(--amber)}\nmain{max-width:1080px;margin:0 auto;padding:0 22px 72px}\n.lede{background:var(--deep-2);color:#e6edf1;margin:0 -22px;padding:56px 22px 64px}\n.lede-inner{max-width:1080px;margin:0 auto}\n.eyebrow{font-size:12px;letter-spacing:.28em;color:var(--amber);text-transform:uppercase;margin:0 0 18px}\nh1{font-size:clamp(30px,5.4vw,52px);line-height:1.18;margin:0 0 22px;font-weight:800;color:#fff;letter-spacing:-.01em}\nh1 .thin{display:block;font-size:.48em;font-weight:400;color:var(--amber-soft);letter-spacing:.06em;margin-top:14px}\n.lede-cols{display:grid;grid-template-columns:1.55fr 1fr;gap:38px;margin-top:34px;border-top:1px solid rgba(224,160,48,.35);padding-top:28px}\n.lede-cols p{margin:0 0 16px;font-size:15.5px;color:#d7e2e9}\n.factbox{font-size:13.5px;color:#c3d3dc}\n.factbox dt{color:var(--amber);font-weight:700;margin-top:14px;font-size:12px;letter-spacing:.14em}\n.factbox dd{margin:2px 0 0}\n.factbox dl{margin:0}\nsection{padding:58px 0 6px}\nh2{font-size:clamp(22px,3vw,29px);margin:0 0 8px;line-height:1.3;color:var(--deep);letter-spacing:-.01em}\n.h2note{color:var(--muted);font-size:14px;margin:0 0 34px;max-width:62ch}\nh3{font-size:17px;margin:0 0 8px;color:var(--deep)}\np{margin:0 0 16px}\n.step{padding:22px 0;border-top:1px solid var(--line);display:grid;grid-template-columns:56px 1fr;gap:6px 18px}\n.step:last-child{border-bottom:1px solid var(--line)}\n.step .no{font-size:26px;font-weight:800;color:var(--amber);line-height:1.2}\n.step p{color:#33454f;font-size:15px}\n.step p:last-child{margin-bottom:0}\n.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:0 34px;align-items:end;margin-top:8px}\n.plan{padding:0 0 26px}\n.plan:nth-child(1){padding-bottom:26px}\n.plan:nth-child(2){padding-bottom:56px}\n.plan:nth-child(3){padding-bottom:86px}\n.plan .tier{font-size:12px;letter-spacing:.24em;color:var(--muted);margin:0 0 10px}\n.plan .price{font-size:32px;font-weight:800;color:var(--deep);line-height:1.1;margin:0}\n.plan .price small{font-size:14px;font-weight:400;color:var(--muted);letter-spacing:.02em}\n.plan .annual{font-size:13.5px;color:var(--muted);margin:6px 0 16px}\n.plan ul{list-style:none;margin:0;padding:16px 0 0;border-top:1px solid var(--line);font-size:14.5px}\n.plan li{padding:0 0 9px 0;color:#33454f}\n.plan li::before{content:\"—\";color:var(--amber);margin-right:8px}\n.plan .flag{display:inline-block;font-size:11.5px;letter-spacing:.16em;color:var(--deep);background:var(--amber-soft);padding:2px 9px;margin:0 0 12px}\n.plan-note{margin-top:30px;padding-top:18px;border-top:1px solid var(--line);font-size:13.5px;color:var(--muted)}\n.clients{display:grid;grid-template-columns:repeat(2,1fr);gap:28px 44px;margin-top:6px}\n.client{border-top:1px solid var(--line);padding-top:18px}\n.client .meta{font-size:13px;color:var(--muted);margin:0}\n.client .meta strong{color:var(--deep);font-weight:700}\n.faqgroup{margin:0 0 40px}\n.faqgroup > h3{font-size:13px;letter-spacing:.22em;color:var(--amber);border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:6px}\n.qa{padding:18px 0;border-bottom:1px solid var(--line)}\n.qa dt{font-weight:700;color:var(--deep);margin:0 0 6px;font-size:15.5px}\n.qa dd{margin:0;color:#33454f;font-size:15px}\n.qa dl{margin:0}\nfooter{background:var(--deep);color:#b9c9d3;font-size:13px}\n.footer-inner{max-width:1080px;margin:0 auto;padding:34px 22px 44px;display:flex;flex-wrap:wrap;gap:10px 40px;justify-content:space-between}\n.footer-inner a{color:var(--amber-soft);border-bottom:none}\n.footer-inner a:hover{color:var(--amber)}\n@media (max-width:820px){\n  .lede-cols{grid-template-columns:1fr;gap:24px}\n  .plans{grid-template-columns:1fr;gap:0}\n  .plan, .plan:nth-child(2), .plan:nth-child(3){padding-bottom:22px;border-bottom:1px solid var(--line)}\n  .clients{grid-template-columns:1fr}\n  .step{grid-template-columns:40px 1fr}\n}\n</style><header class=\"topbar\">\n  <div class=\"topbar-inner\">\n    <span class=\"mark\">白嫖(OKGG)</span>\n    <nav>\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#howto\">使用步骤</a>\n      <a href=\"#clients\">客户端</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n</header>\n\n<main>\n\n  <div class=\"lede\">\n    <div class=\"lede-inner\">\n      <p class=\"eyebrow\">订阅说明 · 第 9012 版</p>\n      <h1>白嫖(OKGG)：先把条款看清楚，再决定要不要订阅\n        <span class=\"thin\">一份写给新用户的套餐与使用说明书</span>\n      </h1>\n\n      <div class=\"lede-cols\">\n        <div>\n          <p>大多数订阅页面习惯先讲愿景，再讲价格。这份页面反过来：先列出可以核对的数字——三档月费、对应流量、同时在线设备数与年付金额，然后才是使用步骤和常见问题。</p>\n          <p>之所以这样安排，是因为订阅本身是一件需要事后复查的事。你会在三个月后想知道自己买的是哪一档、每月额度是多少、能同时登录几台设备。这些信息不该藏在一段形容词后面。</p>\n          <p>因此本页不承诺任何未列明的能力。文中出现的每一个数字、每一条权益，都只对应表格中写明的范围；没有写到的部分，视为未提供说明，请勿自行推定。</p>\n        </div>\n        <div class=\"factbox\">\n          <dl>\n            <dt>套餐档位</dt>\n            <dd>三档：基础版、旗舰版、团队版</dd>\n            <dt>月费区间</dt>\n            <dd>¥15 — ¥85 / 月</dd>\n            <dt>年付方式</dt>\n            <dd>各档均为月费 × 10 的年度金额</dd>\n            <dt>本文用途</dt>\n            <dd>套餐核对、使用步骤、常见问题</dd>\n          </dl>\n        </div>\n      </div>\n    </div>\n  </div>\n\n  <section id=\"plans\">\n    <h2>三档套餐，按用量递增排列</h2>\n    <p class=\"h2note\">阶梯式排列：越靠右的档位，流量额度、同时在线设备数与年付金额依次上升。请以你实际需要的设备数量作为首要判断依据，再比较流量。</p>\n\n    <div class=\"plans\">\n      <article class=\"plan\">\n        <p class=\"tier\">第一阶</p>\n        <h3>基础版</h3>\n        <p class=\"price\">¥15<small> / 月</small></p>\n        <p class=\"annual\">按年付仅需 ¥150 / 年</p>\n        <ul>\n          <li>每月 100GB 流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>基础流媒体解锁</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <p class=\"tier\">第二阶</p>\n        <span class=\"flag\">较多用户选择</span>\n        <h3>旗舰版</h3>\n        <p class=\"price\">¥35<small> / 月</small></p>\n        <p class=\"annual\">按年付仅需 ¥350 / 年</p>\n        <ul>\n          <li>每月 300GB 流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <p class=\"tier\">第三阶</p>\n        <h3>团队版</h3>\n        <p class=\"price\">¥85<small> / 月</small></p>\n        <p class=\"annual\">按年付仅需 ¥850 / 年</p>\n        <ul>\n          <li>每月 1000GB 流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n    </div>\n\n    <p class=\"plan-note\">年付金额为本文列出的确定数值，非折算估算。表中未列出的权益（例如具体节点地区、峰值速率、退款安排）本页不作说明，请勿据此推断。</p>\n  </section>\n\n  <section id=\"howto\">\n    <h2>使用步骤</h2>\n    <p class=\"h2note\">以下步骤按操作顺序排列，每一步都可以独立核对结果，无需依赖上一步的描述性承诺。</p>\n\n    <div class=\"step\">\n      <span class=\"no\">01</span>\n      <div>\n        <h3>先确认设备数量</h3>\n        <p>统计你实际会同时登录的设备：手机、平板、电脑各算一台。3 台、5 台、20 台是本页写明的三个上限，超出的部分不在对应档位的说明范围内。</p>\n      </div>\n    </div>\n\n    <div class=\"step\">\n      <span class=\"no\">02</span>\n      <div>\n        <h3>再估算每月流量</h3>\n        <p>对照 100GB、300GB、1000GB 三档。若你的使用以视频为主，请留出余量；若只是日常浏览与办公，低档通常足够。流量按自然月计算，结余部分是否结转不在本页说明范围内。</p>\n      </div>\n    </div>\n\n    <div class=\"step\">\n      <span class=\"no\">03</span>\n      <div>\n        <h3>比较月付与年付</h3>\n        <p>三档年付金额分别是 ¥150、¥350、¥850，均为对应月费乘以十。是否适合年付，取决于你打算使用多久，而不是折扣幅度本身。</p>\n      </div>\n    </div>\n\n    <div class=\"step\">\n      <span class=\"no\">04</span>\n      <div>\n        <h3>在设备上完成登录</h3>\n        <p>按所选客户端完成登录后，请立即核对两件事：当前档位名称是否正确，同时在线设备数是否已接近上限。任一项不符，应在开始大量使用前处理。</p>\n      </div>\n    </div>\n\n    <div class=\"step\">\n      <span class=\"no\">05</span>\n      <div>\n        <h3>记录变更与到期时间</h3>\n        <p>把你的档位、月付或年付方式、到期时间记在一处可查的地方。旗舰版与团队版含工单或客户经理支持，需要时可直接使用对应渠道说明情况。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端</h2>\n    <p class=\"h2note\">本页不提供下载地址。下表只说明各平台在登录时需要核对的内容，具体安装包请以你已获得的官方渠道为准；若无法确认来源，应先核实，不要安装。</p>\n\n    <div class=\"clients\">\n      <article class=\"client\">\n        <h3>桌面端（Windows / macOS）</h3>\n        <p>登录后先查看账户页显示的套餐档位，与本文表格逐项比对流量额度与设备上限。</p>\n        <p class=\"meta\">核对项：<strong>档位名称、到期日、同时在线设备数</strong></p>\n      </article>\n\n      <article class=\"client\">\n        <h3>移动端（iOS / Android）</h3>\n        <p>移动设备最容易占满在线名额。若出现异常，优先检查是否有旧设备仍在登录状态。</p>\n        <p class=\"meta\">核对项：<strong>在线设备列表、当前登录数量</strong></p>\n      </article>\n\n      <article class=\"client\">\n        <h3>路由器或共用设备</h3>\n        <p>若在路由器层面统一登录，其下的终端如何计入在线设备数，需按你所用客户端的显示为准，本页不作推定。</p>\n        <p class=\"meta\">核对项：<strong>实际占用名额与终端数量</strong></p>\n      </article>\n\n      <article class=\"client\">\n        <h3>团队版的管理场景</h3>\n        <p>团队版含 20 台同时在线与专属客户经理，适合有多人协作需求的场景；定制路由的具体配置方式请通过对应支持渠道确认。</p>\n        <p class=\"meta\">核对项：<strong>成员设备分配、支持渠道联系人</strong></p>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <p class=\"h2note\">按主题分组：订阅与计费、额度与设备、使用与支持。每条问题都给出一句可以单独阅读的答案。</p>\n\n    <div class=\"faqgroup\">\n      <h3>主题一 · 订阅与计费</h3>\n      <dl class=\"qa\">\n        <dt>三档套餐的月费分别是多少？</dt>\n        <dd>基础版 ¥15 / 月，旗舰版 ¥35 / 月，团队版 ¥85 / 月。年付金额分别为 ¥150、¥350、¥850。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>年付和月付的关系是怎样的？</dt>\n        <dd>本文列出的年付金额等于对应月费乘以十，即按十二个月的服务期计算十个月的金额。是否划算取决于你实际使用的时长。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>旗舰版为什么被标为“较多用户选择”？</dt>\n        <dd>这只是页面上的展示标记，用于提示三档之间的中间位置，不构成对使用人数或效果的任何说明。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>本页是否说明了退款或中途变更档位的规则？</dt>\n        <dd>没有。本文未提供退款、升降级或转让方面的说明，请勿依据本页内容作此类推定，需要时应通过对应支持渠道核实。</dd>\n      </dl>\n    </div>\n\n    <div class=\"faqgroup\">\n      <h3>主题二 · 额度与设备</h3>\n      <dl class=\"qa\">\n        <dt>每月流量额度如何划分？</dt>\n        <dd>基础版 100GB / 月，旗舰版 300GB / 月，团队版 1000GB / 月。三档均按自然月计。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>同时在线设备数上限是多少？</dt>\n        <dd>基础版 3 台，旗舰版 5 台，团队版 20 台。“同时在线”指同一时刻处于登录状态的设备数量。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>超出设备上限会怎样？</dt>\n        <dd>本文未对超出上限后的具体行为作说明。稳妥的做法是提前退出不用的设备，使在线数量始终低于所选档位的上限。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>当月未用完的流量会累积到下个月吗？</dt>\n        <dd>本页未提供流量结转方面的说明。建议按每月额度规划使用，而不是假设可以累积。</dd>\n      </dl>\n    </div>\n\n    <div class=\"faqgroup\">\n      <h3>主题三 · 使用与支持</h3>\n      <dl class=\"qa\">\n        <dt>我该从哪一档开始？</dt>\n        <dd>先看设备数量：三台以内且用量不大，基础版即可；五台设备并需要流媒体与游戏线路优化，看旗舰版；二十台设备与定制路由需求，则对应团队版。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>各档的支持方式有什么区别？</dt>\n        <dd>本文写明旗舰版含 7x24 优先工单支持，团队版含专属客户经理服务。基础版的具体支持形式本页未作说明。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>页面上的链接为什么指向当前位置？</dt>\n        <dd>因为本文没有可确认的外部地址。与其给出可能失效或被替换的链接，不如留在本页，先把你需要核对的信息读完。</dd>\n      </dl>\n      <dl class=\"qa\">\n        <dt>发现信息与实际不符怎么办？</dt>\n        <dd>以你账户页面显示的档位、额度与到期日为准，并通过对应支持渠道说明差异。本页仅作为订阅前的说明材料。</dd>\n      </dl>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <div class=\"footer-inner\">\n    <span>白嫖(OKGG) · 订阅说明页</span>\n    <span>本文仅陈述所列信息，未列明部分不作说明 · <a href=\"#plans\">回到套餐</a></span>\n  </div>\n</footer>",
+          "hash": "e59f3594a16b4a459f57f0faa7458589d50625b593e76de7bdb8f20b73c38f39",
+          "seo": {
+            "title": "白嫖(OKGG) — 一份关于订阅套餐与使用方式的说明",
+            "keywords": "白嫖,OKGG,订阅套餐,使用说明,设备管理,常见问题",
+            "description": "白嫖(OKGG)以冷静克制的方式说明套餐档位、价格与权益、客户端使用步骤及常见问题，帮助你按需选择并核对信息。"
+          },
+          "provider": "grok",
+          "model": "deepseek-flash",
+          "design": {
+            "no": "9012",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "awph1.cn",
+    "host": "p-490363f26c.awph1.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "05d09b9d5a0aa15633491c0130a2826556ebf51a19d140a90f1c361a89498533",
+    "sitemap.xml": "45546f31669765a050dc0da9d5af69f42cecf5093d6cab2ef7da6f6ef77d6211",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "91f33ec250907d464aa622f1d21f6d09023fe3d2cb80b2ad9d96b61e19074e8b",
+    "robots.txt": "821558bcb9a5ae95daeaef021abc23a53b633c28dedb507729cf670af50a9ffa",
+    "1c0c65c910caed48a6ea432e588bf6f7.txt": "9e03579584bae6c6767f43893d5650f72bdc941a9931827484b385943f768c0f"
+  },
+  "revision": "c92d8a62e63e40a2d55ed1e1fe558015929f1d31ac8b4e56c0826a801665947f"
+}
